@@ -1,0 +1,7 @@
+config.json
+.env
+.env.*
+!*.example
+generated-images/
+__pycache__/
+*.pyc
