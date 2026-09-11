@@ -1,7 +1,7 @@
 config.json
 .env
 .env.*
-!*.example
+!.env.example
 generated-images/
 __pycache__/
 *.pyc
