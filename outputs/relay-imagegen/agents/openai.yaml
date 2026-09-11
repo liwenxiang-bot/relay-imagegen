@@ -1,4 +1,0 @@
-interface:
-  display_name: "Relay Image Generator"
-  short_description: "通过中转 OpenAI 兼容 API 生成和修改图片"
-  default_prompt: "生成一张图片；始终使用本地脚本调用 OPENAI_BASE_URL 指向的图片 API，并返回生成文件路径。"
